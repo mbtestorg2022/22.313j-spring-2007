@@ -56,11 +56,48 @@ Prerequisites
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 30% |
-| Mid-term quiz | 30% |
-| Final exam | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term quiz
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework and Reading Assignment Practices
 -----------------------------------------
@@ -74,30 +111,369 @@ Homework and Reading Assignment Practices
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction {{< br >}}{{< br >}} Two-phase flow definitions {{< br >}}{{< br >}}  | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Conservation equations {{< br >}}{{< br >}} Flow patterns {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Flow maps {{< br >}}{{< br >}} Bubbly flow {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Slug flow {{< br >}}{{< br >}} Annular flow {{< br >}}{{< br >}} Flooding and flow reversal {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Void fraction modeling | Homework 1 due |
-| 6 | Pressure drop modeling | &nbsp; |
-| 7-9 | Steam separation | Homework 2 due in Lec #8 |
-| 10 | Instabilities, Lecture by Dr. Pavel Hejzlar | &nbsp; |
-| 11 | Critical flow, Lecture by Dr. Pavel Hejzlar | &nbsp; |
-| 12 | Bubble nucleation | Homework 3 due |
-| 13 | Pool boiling | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Mid-term quiz (open book) {{< br >}}{{< br >}} All material through Lec #11 {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Introduction to flow boiling {{< br >}}{{< br >}} Onset of nucleate boiling {{< br >}}{{< br >}}  | Homework 4 due |
-| 16 | Subcooled and saturated flow boiling | &nbsp; |
-| 17 | Boiling crisis: Departure from nucleate boiling | &nbsp; |
-| 18 | Boiling crisis: Dryout | Homework 5 due |
-| 19 | Post-boiling-crisis heat transfer, Lecture by Prof. Peter Griffith | &nbsp; |
-| 20 | Condensation | &nbsp; |
-| 21 | The power system thermalhydraulic problem | Homework 6 due |
-| 22 | Transient analysis (single channel) | &nbsp; |
-| 23 | Loop analysis | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Multiple heated channels connected at plena {{< br >}}{{< br >}}  | &nbsp; |
-| 25 | Subchannel analysis, Lecture by Prof. Neil Todreas | Homework 7 due |
-| 26 | Treatment of uncertainties, Lecture by Prof. Neil Todreas | &nbsp; |
-| &nbsp; |  {{< br >}}{{< br >}} Final exam {{< br >}}{{< br >}} Final will cover entire course with specific attention to material of Lec #12-26 {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction
+
+Two-phase flow definitions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conservation equations
+
+Flow patterns
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Flow maps
+
+Bubbly flow
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Slug flow
+
+Annular flow
+
+Flooding and flow reversal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Void fraction modeling
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure drop modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-9
+{{< tdclose >}}
+{{< tdopen >}}
+Steam separation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due in Lec #8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Instabilities, Lecture by Dr. Pavel Hejzlar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Critical flow, Lecture by Dr. Pavel Hejzlar
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Bubble nucleation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Pool boiling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mid-term quiz (open book)
+
+All material through Lec #11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to flow boiling
+
+Onset of nucleate boiling
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Subcooled and saturated flow boiling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Boiling crisis: Departure from nucleate boiling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Boiling crisis: Dryout
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Post-boiling-crisis heat transfer, Lecture by Prof. Peter Griffith
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Condensation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The power system thermalhydraulic problem
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Transient analysis (single channel)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Loop analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multiple heated channels connected at plena
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Subchannel analysis, Lecture by Prof. Neil Todreas
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Treatment of uncertainties, Lecture by Prof. Neil Todreas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final exam
+
+Final will cover entire course with specific attention to material of Lec #12-26
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

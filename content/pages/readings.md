@@ -32,30 +32,443 @@ Readings by Session
 
 Readings from the Collier and Thome text are abbreviated "C&T." Readings from the Todreas and Kazimi text are abbreviated "T&K."
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course introduction {{< br >}}{{< br >}} Two-phase flow definitions {{< br >}}{{< br >}}  | C&T, sections 1.1-1.5 |
-| 2 |  {{< br >}}{{< br >}} Conservation equations {{< br >}}{{< br >}} Flow patterns {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} C&T, sections 2.1-2.2 {{< br >}}{{< br >}} C&T, section 1.6 {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Flow maps {{< br >}}{{< br >}} Bubbly flow {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} C&T, section 1.6 {{< br >}}{{< br >}} {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Whalley, P. B. "Bubbly and Plug Flow," and "Detailed Phenomena in Annular Flow: Wave Behaviour, Deposition, and Entrainment." Chapters 3 and 9 in _Boiling, Condensation and Gas-Liquid Flow_. Oxford, UK: Clarendon Press, 1987. ISBN: 9780198561811. {{< br >}}{{< br >}} Lahey, Jr., R. T., and F. J. Moody. _The Thermal-Hydraulics of a Boiling Water Nuclear Reactor_. 2nd ed. La Grange Park, IL: American Nuclear Society, 1977, pp. 233-241. ISBN: 9780894480102. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Slug flow {{< br >}}{{< br >}} Annular flow {{< br >}}{{< br >}} Flooding and flow reversal {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} C&T, section 3.5 {{< br >}}{{< br >}} {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Whalley, P. B. "Bubbly and Plug Flow," and "Detailed Phenomena in Annular Flow: Wave Behaviour, Deposition, and Entrainment." Chapters 3 and 9 in _Boiling, Condensation and Gas-Liquid Flow_. Oxford, UK: Clarendon Press, 1987. ISBN: 9780198561811. {{< br >}}{{< br >}} Lahey, Jr., R. T., and F. J. Moody. _The Thermal-Hydraulics of a Boiling Water Nuclear Reactor_. 2nd ed. La Grange Park, IL: American Nuclear Society, 1977, pp. 233-241. ISBN: 9780894480102. {{< br >}}{{< br >}}  |
-| 5 | Void fraction modeling |  {{< br >}}{{< br >}} C&T, sections 3.1-3.4 {{< br >}}{{< br >}} {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} EPRI correlation for void fraction in vertical flow (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ho_lec05)) (Courtesy of the Idaho National Laboratory.) {{< br >}}{{< br >}}  |
-| 6 | Pressure drop modeling | C&T, sections 2.3-2.4 and 3.8 |
-| 7-9 | Steam separation | {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Griffith, Peter. "Steam-water Separation." _Multiphase Science and Technology_ 9 (1997): 381-437. {{< br >}}{{< br >}}  |
-| 10 | Instabilities, Lecture by Dr. Pavel Hejzlar | {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Tong, L. S., and Y. S. Tang. "Instability of Two-Phase Flow." Chapter 6 in _Boiling Heat Transfer and Two- Phase Flow_. 2nd ed. Philadelphia, PA: Taylor and Francis, 1997. ISBN: 9781560324850. {{< br >}}{{< br >}} Saha, P., M. Ishii, and N. Zuber. "An Experimental Investigation of the Thermally Induced Flow Oscillations in Two-Phase Systems." _Journal of Heat Transfer_ 98 (1976): 616-622. {{< br >}}{{< br >}}  |
-| 11 | Critical flow, Lecture by Dr. Pavel Hejzlar | {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Levy, S. "Critical Flow." Chapter 6 in _Two-Phase Flow in Complex Systems_. New York, NY: John Wiley & Sons, 1999. ISBN: 9780471329671. {{< br >}}{{< br >}}  |
-| 12 | Bubble nucleation | C&T, sections 4.1-4.3 |
-| 13 | Pool boiling | C&T, section 4.4 |
-| 14 |  {{< br >}}{{< br >}} Mid-term quiz (open book) {{< br >}}{{< br >}} All material through Lecture 11 {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Introduction to flow boiling {{< br >}}{{< br >}} Onset of nucleate boiling {{< br >}}{{< br >}}  | C&T, sections 4.5 and 5.1-5.3 |
-| 16 | Subcooled and saturated flow boiling | C&T, sections 5.4-5.5, 6.1-6.2, and 7.1-7.4 |
-| 17 | Boiling crisis: Departure from nucleate boiling |  {{< br >}}{{< br >}} C&T, sections 8, 9.1-9.2, and 9.7 {{< br >}}{{< br >}} The shape factor for DNB heat flux calculation in non-uniform heated channels ([PDF]({{< baseurl >}}/resources/chf_shape)) {{< br >}}{{< br >}} {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Appendix D in the VIPRE Code User's Manual, Revision 2. {{< br >}}{{< br >}}  |
-| 18 | Boiling crisis: Dryout | C&T, sections 8 and 9.7 |
-| 19 | Post-boiling-crisis heat transfer, Lecture by Prof. Peter Griffith |  {{< br >}}{{< br >}} C&T, section 7.5 {{< br >}}{{< br >}} _Handout_ {{< br >}}{{< br >}} Groeneveld, D. C., L. K. H. Leung, A. Z. Vasic, Y. J. Guo, and S. C. Cheng. "A Look-up Table for Fully Developed Film-boiling Heat Transfer." _Nuclear Engineering and Design_ 225 (2003): 83-97. {{< br >}}{{< br >}}  |
-| 20 | Condensation | C&T, section 10 |
-| 21 | The power system thermalhydraulic problem | T&K, chapter 1 |
-| 22 | Transient analysis (single channel) |  {{< br >}}{{< br >}} T&K, chapter 2, III(A,B), III(A) {{< br >}}{{< br >}} {{< h 3 >}}Handout{{< /h >}} {{< br >}}{{< br >}} Meyer, John E. "Conservation Equations, Characteristics, and Applications." Final Project Report: Enclosure MIT-FIV-8c. January 31, 1999. (Document internal to MIT.) {{< br >}}{{< br >}}  |
-| 23 | Loop analysis | T&K, chapter 3 |
-| 24 |  {{< br >}}{{< br >}} Multiple heated channels connected at plena {{< br >}}{{< br >}}  | T&K, chapter 4, I-V, VIII |
-| 25 | Subchannel analysis, Lecture by Prof. Neil Todreas | T&K, chapter 6, I-III, V |
-| 26 | Treatment of uncertainties, Lecture by Prof. Neil Todreas | T&K, chapter 8, I-IV |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course introduction
+
+Two-phase flow definitions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, sections 1.1-1.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conservation equations
+
+Flow patterns
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C&T, sections 2.1-2.2
+
+C&T, section 1.6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Flow maps
+
+Bubbly flow
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C&T, section 1.6
+
+### Handout
+
+Whalley, P. B. "Bubbly and Plug Flow," and "Detailed Phenomena in Annular Flow: Wave Behaviour, Deposition, and Entrainment." Chapters 3 and 9 in _Boiling, Condensation and Gas-Liquid Flow_. Oxford, UK: Clarendon Press, 1987. ISBN: 9780198561811.
+
+Lahey, Jr., R. T., and F. J. Moody. _The Thermal-Hydraulics of a Boiling Water Nuclear Reactor_. 2nd ed. La Grange Park, IL: American Nuclear Society, 1977, pp. 233-241. ISBN: 9780894480102.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Slug flow
+
+Annular flow
+
+Flooding and flow reversal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C&T, section 3.5
+
+### Handout
+
+Whalley, P. B. "Bubbly and Plug Flow," and "Detailed Phenomena in Annular Flow: Wave Behaviour, Deposition, and Entrainment." Chapters 3 and 9 in _Boiling, Condensation and Gas-Liquid Flow_. Oxford, UK: Clarendon Press, 1987. ISBN: 9780198561811.
+
+Lahey, Jr., R. T., and F. J. Moody. _The Thermal-Hydraulics of a Boiling Water Nuclear Reactor_. 2nd ed. La Grange Park, IL: American Nuclear Society, 1977, pp. 233-241. ISBN: 9780894480102.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Void fraction modeling
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C&T, sections 3.1-3.4
+
+### Handout
+
+EPRI correlation for void fraction in vertical flow (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ho_lec05)) (Courtesy of the Idaho National Laboratory.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure drop modeling
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, sections 2.3-2.4 and 3.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-9
+{{< tdclose >}}
+{{< tdopen >}}
+Steam separation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Handout
+
+Griffith, Peter. "Steam-water Separation." _Multiphase Science and Technology_ 9 (1997): 381-437.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Instabilities, Lecture by Dr. Pavel Hejzlar
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Handout
+
+Tong, L. S., and Y. S. Tang. "Instability of Two-Phase Flow." Chapter 6 in _Boiling Heat Transfer and Two- Phase Flow_. 2nd ed. Philadelphia, PA: Taylor and Francis, 1997. ISBN: 9781560324850.
+
+Saha, P., M. Ishii, and N. Zuber. "An Experimental Investigation of the Thermally Induced Flow Oscillations in Two-Phase Systems." _Journal of Heat Transfer_ 98 (1976): 616-622.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Critical flow, Lecture by Dr. Pavel Hejzlar
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Handout
+
+Levy, S. "Critical Flow." Chapter 6 in _Two-Phase Flow in Complex Systems_. New York, NY: John Wiley & Sons, 1999. ISBN: 9780471329671.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Bubble nucleation
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, sections 4.1-4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Pool boiling
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, section 4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mid-term quiz (open book)
+
+All material through Lecture 11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to flow boiling
+
+Onset of nucleate boiling
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, sections 4.5 and 5.1-5.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Subcooled and saturated flow boiling
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, sections 5.4-5.5, 6.1-6.2, and 7.1-7.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Boiling crisis: Departure from nucleate boiling
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C&T, sections 8, 9.1-9.2, and 9.7
+
+The shape factor for DNB heat flux calculation in non-uniform heated channels ([PDF]({{< baseurl >}}/resources/chf_shape))
+
+### Handout
+
+Appendix D in the VIPRE Code User's Manual, Revision 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Boiling crisis: Dryout
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, sections 8 and 9.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Post-boiling-crisis heat transfer, Lecture by Prof. Peter Griffith
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+C&T, section 7.5
+
+_Handout_
+
+Groeneveld, D. C., L. K. H. Leung, A. Z. Vasic, Y. J. Guo, and S. C. Cheng. "A Look-up Table for Fully Developed Film-boiling Heat Transfer." _Nuclear Engineering and Design_ 225 (2003): 83-97.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Condensation
+{{< tdclose >}}
+{{< tdopen >}}
+C&T, section 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The power system thermalhydraulic problem
+{{< tdclose >}}
+{{< tdopen >}}
+T&K, chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Transient analysis (single channel)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+T&K, chapter 2, III(A,B), III(A)
+
+### Handout
+
+Meyer, John E. "Conservation Equations, Characteristics, and Applications." Final Project Report: Enclosure MIT-FIV-8c. January 31, 1999. (Document internal to MIT.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Loop analysis
+{{< tdclose >}}
+{{< tdopen >}}
+T&K, chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multiple heated channels connected at plena
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+T&K, chapter 4, I-V, VIII
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Subchannel analysis, Lecture by Prof. Neil Todreas
+{{< tdclose >}}
+{{< tdopen >}}
+T&K, chapter 6, I-III, V
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Treatment of uncertainties, Lecture by Prof. Neil Todreas
+{{< tdclose >}}
+{{< tdopen >}}
+T&K, chapter 8, I-IV
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
