@@ -162,7 +162,7 @@ C&T, sections 3.1-3.4
 
 ### Handout
 
-EPRI correlation for void fraction in vertical flow (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ho_lec05)) (Courtesy of the Idaho National Laboratory.)
+EPRI correlation for void fraction in vertical flow ([PDF]({{< baseurl >}}/resources/ho_lec05)) (Courtesy of the Idaho National Laboratory.)
 
 
 {{< tdclose >}}
