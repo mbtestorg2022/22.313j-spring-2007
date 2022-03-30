@@ -6,6 +6,7 @@ description: This resource contains a mid-term exam with solutions to questions 
   drop in annular flow.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/daf6a6e36f425f8fb96b23deea34d313_midterm_soln.pdf
 file_type: application/pdf
+parent_uid: 3013268a-83ca-c738-7ac0-5ec6958e92f1
 resourcetype: Document
 title: midterm_soln.pdf
 uid: daf6a6e3-6f42-5f8f-b96b-23deea34d313

@@ -5,6 +5,7 @@ description: This resource contains a final exam with solutions to questions on 
   transient in a home heating system, and short questions on bubble nucleation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/3502831762e2c85f771d1733141c99d6_final_exam_soln.pdf
 file_type: application/pdf
+parent_uid: 3013268a-83ca-c738-7ac0-5ec6958e92f1
 resourcetype: Document
 title: final_exam_soln.pdf
 uid: 35028317-62e2-c85f-771d-1733141c99d6

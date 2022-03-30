@@ -7,6 +7,7 @@ description: This resource contains a practice final exam with questions on hydr
   boiling heat transfer during a LB-LOCA.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/c97635e31e023812f111c39479812411_practice_final.pdf
 file_type: application/pdf
+parent_uid: 3013268a-83ca-c738-7ac0-5ec6958e92f1
 resourcetype: Document
 title: practice_final.pdf
 uid: c97635e3-1e02-3812-f111-c39479812411
